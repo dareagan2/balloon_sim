@@ -8,3 +8,4 @@ logs/
 *.zarr
 .env
 .DS_Store
+notebooks/cds_tutorials/
